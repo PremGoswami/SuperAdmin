@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.consumerPage {
+    display: flex;
+    background-color: #fff;
+}
+
+
+.contentContainer {
+    display: flex;
+}
+
+
+.dataContiner {
+    padding: 20px;
+    width: calc(100% - 240px);
+    h1{
+        font-size: 20px;
+    }
+}

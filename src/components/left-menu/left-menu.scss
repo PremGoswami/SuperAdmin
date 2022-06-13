@@ -1,0 +1,37 @@
+.leftMenuContainer {
+    width: 240px;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-right: 10px;
+    margin: 0px;
+    border-right: 2px solid #d3d3d3;
+}
+
+
+.leftMenuItem {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    margin-bottom: 25px;
+    cursor: pointer;
+img {
+    height: 20px;
+    padding-right: 20px;
+}
+
+.userAdminOptions {
+    display: flex;
+    flex-direction: column;
+    p {
+        margin-bottom: 5px;
+    }
+    
+}
+}
+a {
+    text-decoration: none;
+    margin-bottom: 5px;
+    color: black;
+}

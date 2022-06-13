@@ -1,0 +1,31 @@
+.tableSearchContainer {
+    width: 150px;
+    display: flex;
+    border: 1px black solid;
+    padding: 2px;
+    height: 25px;
+    margin-left: 864px;
+    img {
+        height: 20px;
+        margin-right: 10px;
+    }
+    input {
+        border: none;
+        outline: none;
+        width: 70px;
+    }
+}
+
+.actionIcon {
+    padding-left: 5px;
+
+    button {
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+}
+
+.AgGridReact {
+    width: inherit;
+}

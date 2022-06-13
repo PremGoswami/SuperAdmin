@@ -1,0 +1,82 @@
+[{
+    "ID": 1,
+    "FirstName": "Venkat",
+    "LastName": "Rajesh",
+    "EmailId": "venkatarajesh@gmail.com",
+    "Phone": "9059492322",
+    "ServiceAmount": "$5300",
+    "LastActivity": "April 21st 2022 at 9:12 pm"
+ },{
+    "ID": 2,
+    "FirstName": "prem",
+    "LastName": "goswami",
+    "EmailId": "prem@gmail.com",
+    "Phone": "9959492322",
+    "ServiceAmount": "$500",
+    "LastActivity": "April 21st 2022 at 9:12 pm"
+ },{
+    "ID": 3,
+    "FirstName": "rohit",
+    "LastName": "sharma",
+    "EmailId": "rohit@gmail.com",
+    "Phone": "6059492322",
+    "ServiceAmount": "$300",
+    "LastActivity": "April 21st 2022 at 9:12 pm"
+ },{
+    "ID": 4,
+    "FirstName": "arun",
+    "LastName": "Rajesh",
+    "EmailId": "arun@gmail.com",
+    "Phone": "1059492322",
+    "ServiceAmount": "$53",
+    "LastActivity": "April 21st 2022 at 9:12 pm"
+ },{
+    "ID": 5,
+    "FirstName": "Kiran",
+    "LastName": "varma",
+    "EmailId": "varma@gmail.com",
+    "Phone": "7759492322",
+    "ServiceAmount": "$200",
+    "LastActivity": "April 21st 2022 at 9:12 pm"
+ },{
+    "ID": 6,
+    "FirstName": "Kumar",
+    "LastName": "Vishnu",
+    "EmailId": "vishnu@gmail.com",
+    "Phone": "7059492322",
+    "ServiceAmount": "$100",
+    "LastActivity": "April 21st 2022 at 9:12 pm"
+ },{
+    "ID": 7,
+    "FirstName": "Surya",
+    "LastName": "Rajesh",
+    "EmailId": "surya@gmail.com",
+    "Phone": "1234567890",
+    "ServiceAmount": "$200",
+    "LastActivity": "April 21st 2022 at 9:12 pm"
+ },{
+    "ID": 8,
+    "FirstName": "Vishnu",
+    "LastName": "Rajesh",
+    "EmailId": "kanidju@gmail.com",
+    "Phone": "9059492322",
+    "ServiceAmount": "$83000",
+    "LastActivity": "April 21st 2022 at 9:12 pm"
+ },{
+    "ID": 9,
+    "FirstName": "Venkat",
+    "LastName": "Ramana",
+    "EmailId": "ram@gmail.com",
+    "Phone": "9059492322",
+    "ServiceAmount": "$43000",
+    "LastActivity": "April 21st 2022 at 9:12 pm"
+ },{
+    "ID": 10,
+    "FirstName": "lekha",
+    "LastName": "patel",
+    "EmailId": "lekha@gmail.com",
+    "Phone": "7059492322",
+    "ServiceAmount": "$5300",
+    "LastActivity": "April 21st 2022 at 9:12 pm"
+ }
+]
